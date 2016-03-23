@@ -7,4 +7,4 @@ The following syntax is used to formulate bridge data.
 - Use the backtick \` to visually distinguish the set of cards.
 - The (x) means «exactly one unspecified card». Ex: `AKxxx` means Ace followed by King followed by exactly three other cards.
 - The star (\*) means, zero or more cards. Ex `AK*` means Ace followed by King followed by any number of cards.
-- bolds leads. Ex: `K[_J_]Txx`
+- bolds leads. Ex: `K[J]Txx`
