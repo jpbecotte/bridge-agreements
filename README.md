@@ -2,7 +2,4 @@
 
 This repository regroups all my bridge agreements between Jean-Pierre Bécotte and Tony Tang.
 
-- item
-- item
-- item
-
+Make sure you read the [syntax](syntax.md) before editing and going thru the conventions.
