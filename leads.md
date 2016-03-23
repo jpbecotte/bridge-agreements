@@ -9,7 +9,8 @@ No | No | No | [Trump Partial Leads](#tpl)
 
 ## Trump Partial Leads
 
-Priorities	
+Priorities
+
 1. Top honnor touching (AK, KQ, QJ, JT, T9) [1]
 1. Singleton
 1. Doubleton (high card)
