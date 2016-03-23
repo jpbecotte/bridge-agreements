@@ -11,10 +11,10 @@ No | No | No | [Trump Partial Leads](#tpl)
 
 Priorities	
 1. Top honnor touching (AK, KQ, QJ, JT, T9) [1]
-2. Singleton
-3. Doubleton (high card)
-4. Leading trump when conditions are met
-5. Leading a low card [2]
+1. Singleton
+1. Doubleton (high card)
+1. Leading trump when conditions are met
+1. Leading a low card [2]
 
 Notes:
 [1] Playing a low card doesn't promises an honnor
