@@ -18,5 +18,7 @@ Priorities
 1. Leading a low card [2]
 
 Notes:
+```
 [1] Playing a low card doesn't promises an honnor
 [2] Promises the card below
+```
