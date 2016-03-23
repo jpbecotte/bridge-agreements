@@ -1,6 +1,6 @@
 # All conventions
 
-- Fourth Suit Game Forcing
+- [Fourth Suit Game Forcing](fourth_suit_forcing.md)
 - New Minor Forcing
 - Cappelletti
 - DONT
