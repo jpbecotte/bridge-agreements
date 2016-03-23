@@ -5,7 +5,7 @@ Has opponents reached game? | Is it a NT contract? | Did partner talked? | Ref
 Yes | Yes | No | TBD
 Yes | No | No | TBD
 No | Yes | No | TBD
-No | No | No | Trump Partial Leads
+No | No | No | [Trump Partial Leads](#tpl)
 
 ## Trump Partial Leads
 
