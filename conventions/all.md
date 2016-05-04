@@ -1,6 +1,7 @@
 # All conventions
 
 | Convention name | Reviewed By JP | Reviewed by Zhong |
+| --- | --- | --- |
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | | |
 | New Minor Forcing | | |
 | Cappelletti | | |
