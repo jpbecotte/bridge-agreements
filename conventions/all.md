@@ -16,7 +16,7 @@
 - Splinters
 - Stayman
 - Texas Transfers
-- Unusual vs. Unusual
+- [Unusual vs. Unusual](unusual-over-unsusual.md)
 - Ogust
 - Reverse dury
 - Bergen Major Suit Raises
