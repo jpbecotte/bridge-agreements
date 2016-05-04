@@ -25,11 +25,11 @@ Second, find the remaining suits.
 ### Example
 
 Example: 
-1♥ - 2NT - 3♣ (fit in heart, invitationnal)
-1♥ - 2NT - 3♦ (not fit in heart but 4 cards of spades, invitationnal)
-1♥ - 2NT - 3♥ (to play)
-1♥ - 2NT - 3♠ (to play)
-1♥ - 2NT - 3NT (to play, stopping both minors... maybe not a good idea... maybe it's better to double)
+- 1♥ - 2NT - 3♣ (fit in heart, invitationnal)
+- 1♥ - 2NT - 3♦ (not fit in heart but 4 cards of spades, invitationnal)
+- 1♥ - 2NT - 3♥ (to play)
+- 1♥ - 2NT - 3♠ (to play)
+- 1♥ - 2NT - 3NT (to play, stopping both minors... maybe not a good idea... maybe it's better to double)
 
 
  ♠♥♦♣
