@@ -7,7 +7,7 @@
 | Cappelletti | | |
 | [DONT](dont.md) | | |
 | Lebensohl | | |
-| Jacoby 2NT | | |
+| [Jacoby 2NT](jacoby-2nt.md) | | |
 | Jacoby Transfers | | |
 | Michaels | | |
 | Puppet Stayman | | |
