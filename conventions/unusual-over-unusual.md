@@ -18,17 +18,17 @@ Not «on» after these:
 First, determine what are the available cuebids.
 Second, find the remaining suits.
 
- - Bidding a cuebid shows an invitational hand. The lowest cuebid belongs to the lower remaining suit. The highest cuebid goes to the highest remaining suit.
+ - Bidding a cuebid shows an invitational(11+ pts) hand. The lowest cuebid belongs to the lower remaining suit. The highest cuebid goes to the highest remaining suit.
  - A double says «intention de pénalité sur une des deux couleurs de l'adversaire»
  - Any other bid is to play
 
 ### Example
 
 Example: 
-- 1♥ - 2NT - 3♣ (fit in heart, invitationnal)
-- 1♥ - 2NT - 3♦ (not fit in heart but 4 cards of spades, invitationnal)
-- 1♥ - 2NT - 3♥ (to play)
-- 1♥ - 2NT - 3♠ (to play)
+- 1♥ - 2NT - 3♣ (11+ pts, fit in heart, invitationnal)
+- 1♥ - 2NT - 3♦ (11+ pts, not fit in heart but 4 cards of spades, invitationnal)
+- 1♥ - 2NT - 3♥ (6-10 pts, fit in heart)
+- 1♥ - 2NT - 3♠ (6-10 pts, not fit in heart but 4 cards of spades)
 - 1♥ - 2NT - 3NT (to play, stopping both minors... maybe not a good idea... maybe it's better to double)
 
 
