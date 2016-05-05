@@ -4,7 +4,7 @@ ALERTABLE
 
 This is on after a second bid of 1NT by opener, showing a minimum and balanced hand.
 
-Ex: 1♣ - p - 1♥ - p 1NT - ?
+Ex: 1♣ - p - 1♥ - p - 1NT - ?
 
 If responder bid the other minor, then it is forcing one round. It shows an invitational hand, and either 5 in the major or 4 in the other major.
 
