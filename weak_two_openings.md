@@ -2,7 +2,7 @@
 1. To open weak two,  we need 6 - 11 total points
 ```
     if (Vul or 2nd seat)
-        {2 of top 3 or 3 of top 5 is required}  
+        {2 of top 3 or 3 of top 5 or seven cards is required}  
     else
 	    {any six card suit}
 ```
