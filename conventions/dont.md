@@ -15,7 +15,7 @@ C := Any color except NT
 ```
 2C promises 8pts. Those points must be in the long suits bidded.
 
-- 2♣ : 5 clubs and 5 in another suit
+- 2♣ : 5 clubs and 5 in another suit (Not nacessary 5 5 cards, 5 4 is also acceptable, the goal of DONT is to interfere opponents)
 - 2♦ : 5 diamonds and 5 in majors
 - 2♥ : both majors
 - 2♠ : natural
