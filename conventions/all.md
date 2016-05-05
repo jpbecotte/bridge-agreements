@@ -3,7 +3,7 @@
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
-| New Minor Forcing | | |
+| [New Minor Forcing](new-minor-forcing.md) | | |
 | Cappelletti | | |
 | DONT | | |
 | Lebensohl | | |
