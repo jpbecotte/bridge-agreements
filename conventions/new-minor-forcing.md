@@ -10,8 +10,10 @@ If responder bid the other minor, then it is forcing one round. It shows an invi
 
 ## Opener response
 
+```
 Y : responder's major
 W : other major
+```
 
 Priorities:
 - 2Y => 3 in responder's major
