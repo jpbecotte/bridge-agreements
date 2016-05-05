@@ -13,7 +13,7 @@
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
 | Gerber | | |
-| DOPI, ROPI | | |
+| [DOPI, ROPI??](dopi.md) | | |
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
