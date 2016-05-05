@@ -10,8 +10,10 @@ If responder bid the other minor, then it is artificial and forcing one round. I
 
 ## Opener response
 
-Y : responder's major
-W : other major
+```
+Y := responder's major
+W := other major
+```
 
 Priorities:
 - 2Y => 3 in responder's major
