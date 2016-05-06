@@ -3,22 +3,22 @@
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
-| [New Minor Forcing](new-minor-forcing.md) | | |
+| [New Minor Forcing](new-minor-forcing.md) | Ok | |
 | Cappelletti | | |
-| [DONT](dont.md) | | |
+| [DONT](dont.md) | Disagree | |
 | Lebensohl | | |
-| [Jacoby 2NT](jacoby-2nt.md) | | |
+| [Jacoby 2NT](jacoby-2nt.md) | Disagree | |
 | Jacoby Transfers | | |
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
 | Gerber | | |
-| [DOPI, ROPI??](dopi.md) | | |
+| [DOPI, ROPI??](dopi.md) | OK | |
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
 | Texas Transfers | | |
-| [Unusual vs. Unusual](unusual-over-unusual.md) | | |
+| [Unusual vs. Unusual](unusual-over-unusual.md) | OK | |
 | Ogust | | |
 | Reverse dury | | |
 | Bergen Major Suit Raises | | |
