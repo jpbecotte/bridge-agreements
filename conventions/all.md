@@ -7,18 +7,18 @@
 | Cappelletti | | |
 | [DONT](dont.md) | Disagree | |Disagree
 | Lebensohl | | |
-| [Jacoby 2NT](jacoby-2nt.md) | Disagree | |Disagree
+| [Jacoby 2NT](jacoby-2nt.md) | Disagree |Disagree |
 | Jacoby Transfers | | |
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
 | Gerber | | |
-| [DOPI, ROPI??](dopi.md) | OK | |OK
+| [DOPI, ROPI??](dopi.md) | OK | OK|
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
 | Texas Transfers | | |
-| [Unusual vs. Unusual](unusual-over-unusual.md) | OK | |OK
+| [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
 | Bergen Major Suit Raises | | |
