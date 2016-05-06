@@ -5,7 +5,7 @@
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
 | [New Minor Forcing](new-minor-forcing.md) | Ok | |
 | Cappelletti | | |
-| [DONT](dont.md) | Disagree | |Disagree
+| [DONT](dont.md) | Disagree | Disagree|
 | Lebensohl | | |
 | [Jacoby 2NT](jacoby-2nt.md) | Disagree |Disagree |
 | Jacoby Transfers | | |
