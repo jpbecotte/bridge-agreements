@@ -15,7 +15,12 @@ Similar to Jacoby Transfers, but it promises 6 or more cards of transfered suit 
 
 This convention is very usefull to prevent or (better) stop opponents to put their nose in the auction. So it should always be ON. So the 4♦ and 4♥ will never be part of Lebenshol.
 
-Example: 2NT - (3♥) - 4♥ is a texas transfer to hearts with 6 spades, game forcing
+When opponent interfere, the system is ON till 3♠
+Example: 1NT/2NT - (3♥) - 4♥ is a texas transfer to hearts with 6 spades, game forcing
+if opponent bid 4♦, X = transfer to ♥, 4♥ = transfer to ♠
+if opponent bid 4♥, X = transfer to ♠
+if opponent bid 4NT showing minors, X = prepare to penalty, 5♦ = transfer to ♥, 5♥ = transfer to ♠
+
 
 ## To Discuss
 
