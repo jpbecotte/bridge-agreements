@@ -1,6 +1,5 @@
 # Jacoby Transfers
 
-
 It promises 5 or more cards of transfered suit.
 
 - ♦ transfers to ♥
