@@ -17,7 +17,7 @@
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
-| Texas Transfers | | |
+| [Texas Transfers](texas-transfers.md) | OK | |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
