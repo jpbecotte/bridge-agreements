@@ -14,7 +14,7 @@
 | Roman Key Card Blackwood (1430) | | |
 | Gerber | | |
 | [DOPI, ROPI](dopi.md) | OK | OK|
-| [Smolen](smolen.md) | OK | |
+| [Smolen](smolen.md) | To confirm |OK |
 | Splinters | | |
 | Stayman | | |
 | [Texas Transfers](texas-transfers.md) |To confirm |OK |
