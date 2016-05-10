@@ -18,4 +18,8 @@ Then he bids the shortest major at level 3. (ALERTABLE)
 
 Then he bids 3♦. (ALERTABLE)
 
+## When NOT to use
+Opponent interfere anything except DOUBLE in any position
+
+
 ♠♥♦♣
