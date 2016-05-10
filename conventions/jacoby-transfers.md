@@ -2,9 +2,9 @@
 
 It promises 5 or more cards of transfered suit.
 
-- ♦ transfers to ♥
-- ♥ transfers to ♠
-- ♠ transfers to ♣ or ♦
+- 2♦ transfers to ♥
+- 2♥ transfers to ♠
+- 2♠ transfers to ♣ or ♦
 
 ## When to use
 
