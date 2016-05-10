@@ -1,7 +1,6 @@
 # Over opponents take out double
 
-- If opener opens in (3rd or 4th) and in majors, see Drudy.
-- If opener opens in minor, this convention in not in use
+
 
 ## When to use
 
@@ -33,5 +32,10 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 - 4M : Showing extras
 - 3x : Game try
 - 4x : Forcing to game, 0-1 cards in this suit
+
+## When NOT to use 
+- Opener opens in (3rd or 4th) and in majors, see Drudy.
+- Opener opens in minor
+
 
 ♠♥♦♣
