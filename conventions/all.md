@@ -3,12 +3,12 @@
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
-| [New Minor Forcing](new-minor-forcing.md) | Ok | Ok|
+| [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | Cappelletti | | |
 | [DONT](dont.md) | Disagree | Disagree|
 | Lebensohl | | |
 | [Jacoby 2NT](jacoby-2nt.md) | Disagree |Disagree |
-| [Jacoby Transfers](jacoby-transfers.md) | To discuss | |
+| [Jacoby Transfers](jacoby-transfers.md) | To discuss |OK |
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
