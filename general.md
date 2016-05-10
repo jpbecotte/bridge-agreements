@@ -22,4 +22,4 @@
 1. We use rule of 22 to open at 1st and 2nd seats
 1. We use rule of 15 to open at 3rd and 4th seats
 1. We use total points for Bergen and Splinter.
-1. 1D-2C is not game forcing, promising 5 clubs and 10+ points. (To be confirmed).
+1. 1D-2C is not game forcing, promising 5 clubs and 10+ points.
