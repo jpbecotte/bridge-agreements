@@ -5,9 +5,9 @@
 | [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | Cappelletti | | |
-| [DONT](dont.md) | Disagree | Disagree|
+| [DONT](dont.md) | To be discussed | To be discussed|
 | Lebensohl | | |
-| [Jacoby 2NT](jacoby-2nt.md) | Disagree |Disagree |
+| [Jacoby 2NT](jacoby-2nt.md) | To be discussed |To be discussed |
 | [Jacoby Transfers](jacoby-transfers.md) | To discuss |OK |
 | Michaels | | |
 | Puppet Stayman | | |
@@ -17,7 +17,7 @@
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
-| [Texas Transfers](texas-transfers.md) | |OK |
+| [Texas Transfers](texas-transfers.md) |To confirm |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
