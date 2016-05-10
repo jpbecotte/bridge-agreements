@@ -8,7 +8,7 @@
 | [DONT](dont.md) | Disagree | Disagree|
 | Lebensohl | | |
 | [Jacoby 2NT](jacoby-2nt.md) | Disagree |Disagree |
-| Jacoby Transfers | | |
+| [Jacoby Transfers](jacoby-transfers.md) | To discuss | |
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
