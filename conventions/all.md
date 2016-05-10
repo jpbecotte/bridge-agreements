@@ -21,7 +21,7 @@
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
-| Bergen Major Suit Raises | | |
+| [Bergen Major Suit Raises](bergen.md) | OK | |
 | Support double/redouble | | |
 | Negative Doubles | | |
 | OVER OPP'S T/O DOUBLE | | |
