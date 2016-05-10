@@ -1,4 +1,4 @@
-## DOPI
+## DOPI (ROPI)
 
 Used when opponent interfere when we play a convention that requires steps. Example
 
@@ -9,7 +9,7 @@ Used when opponent interfere when we play a convention that requires steps. Exam
 
 ### How to use it
 
-- DOUBLE (X) means 1st step
+- DOUBLE (X) means 1st step (If opponents have doubled, then redouble means that)
 - PASS means 2nd step
 - NEXT AVAILABLE BID means 3rd step
 - AND SO ON...
