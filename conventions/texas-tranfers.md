@@ -15,6 +15,8 @@ Similar to Jacoby Transfers, but it promises 6 or more cards of transfered suit 
 
 This convention is very usefull to prevent or (better) stop opponents to put their nose in the auction. So it should always be ON. So the 4♦ and 4♥ will never be part of Lebenshol.
 
+Example: 2NT - (3♥) - 4♥ is a texas transfer to hearts with 6 spades, game forcing
+
 ## To Discuss
 
 - Slam distinctions with Jacoby
