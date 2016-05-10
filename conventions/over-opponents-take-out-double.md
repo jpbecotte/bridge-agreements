@@ -7,6 +7,6 @@
 
 Opening in majors in 1st or 2nd place, opponents make a direct X, meaning it's a takeout double.
 
-| A | B |
-| A | B |
+| Sequence | Meaning |
+|  | B |
 | A | B |
