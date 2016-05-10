@@ -17,11 +17,11 @@
 | Smolen | | |
 | Splinters | | |
 | Stayman | | |
-| [Texas Transfers](texas-transfers.md) | OK | |
+| [Texas Transfers](texas-transfers.md) | |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
-| [Bergen Major Suit Raises](bergen.md) | OK | |
+| [Bergen Major Suit Raises](bergen.md) | OK |OK |
 | Support double/redouble | | |
 | Negative Doubles | | |
 | OVER OPP'S T/O DOUBLE | | |
