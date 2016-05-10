@@ -24,7 +24,7 @@
 | [Bergen Major Suit Raises](bergen.md) | OK |OK |
 | Support double/redouble | | |
 | Negative Doubles | | |
-| Over opponents take-out double | | |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | |
 | Inverted minor raise | | |
 | Constructive major raise | | |
 | Game try after direct major raise | | |
