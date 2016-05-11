@@ -10,7 +10,8 @@ The initiator of Gerber is the captain to decide which contract to play.
 
 ##When to use
 -4♣ over NT is always Gerber except in Lebensohl fast deny.
--e.g. 1NT-2♠-3NT-P
+
+e.g. 1NT-2♠-3NT-P
      4♣(no stoper in ♠, then bid the next longest suit available).
 
 ##When NOT to use
