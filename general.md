@@ -27,8 +27,8 @@
 9. Level 2 overcall:
    Opponent open 1S, direct 2H = 10-16 pts, if >=17 pts double
    Opponent opens 1c, Pass, 1S, 2H = 13-16 pts 
-10. 1nt balancing promises 12-15 points.
-11. after take out double at level 1, 
+10. 1NT balancing promises 12-15 points.
+11. After take out double at level 1, 
    if opponent passes, raise = 0-8 pts; jump = 9+ pts 
    if opponent talks, pass = 0-4 pts; raise = 5-8 pts; jump = 9+ pts
 12. Never lead under A against trump contract. 
