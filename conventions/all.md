@@ -12,7 +12,7 @@
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
-| Gerber | | |
+| [Gerber](gerber.md) |To confirm | OK|
 | [DOPI, ROPI](dopi.md) | OK | OK|
 | [Smolen](smolen.md) | To confirm |OK |
 | Splinters | | |
