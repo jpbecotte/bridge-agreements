@@ -1,10 +1,13 @@
 #Gerber
 -4♣ over NT, demanding the quantities of Ace.
--Responses 4♦ = 0 or 4; 4♥ = 1; 4♠ = 2; 4NT = 3.
+
+Responses 4♦ = 0 or 4; 4♥ = 1; 4♠ = 2; 4NT = 3.
 
 -5♣ demanding the quantities of King
--Must have all the Aces
--Responses 5♦ = 0 or 4; 5♥ = 1; 5♠ = 2; 5NT = 3.
+
+Must have all the Aces
+
+Responses 5♦ = 0 or 4; 5♥ = 1; 5♠ = 2; 5NT = 3.
 
 The initiator of Gerber is the captain to decide which contract to play.
 
