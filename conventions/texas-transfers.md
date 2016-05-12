@@ -26,5 +26,4 @@ if opponent bid 4NT showing minors, X = prepare to penalty, 5♦ = transfer to �
 
 - Slam distinctions with Jacoby
 
-
 ♠♥♦♣
