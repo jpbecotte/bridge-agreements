@@ -2,7 +2,7 @@
 
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
-| [Fourth Suit Game Forcing](fourth_suit_forcing.md) | To be discussed | |
+| [Fourth Suit Game Forcing](fourth-suit-forcing.md) | To be discussed | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | Cappelletti | | |
 | [DONT](dont.md) | To be discussed | To be discussed|
