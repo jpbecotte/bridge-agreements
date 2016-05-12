@@ -12,19 +12,19 @@
 | Michaels | | |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
-| [Gerber](gerber.md) |To confirm | OK|
+| [Gerber](gerber.md) | OK | OK|
 | [DOPI, ROPI](dopi.md) | OK | OK|
-| [Smolen](smolen.md) | To confirm |OK |
+| [Smolen](smolen.md) | OK |OK |
 | Splinters | | |
 | Stayman | | |
 | [Texas Transfers](texas-transfers.md) |To confirm |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
 | Reverse dury | | |
-| [Bergen Major Suit Raises](bergen.md) | OK |OK |
+| [Bergen Major Suit Raises](bergen.md) | OK | to confirm |
 | Support double/redouble | | |
 | Negative Doubles | | |
-| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | to confirm |
 | Inverted minor raise | | |
 | Constructive major raise | | |
 | Game try after direct major raise | | |
