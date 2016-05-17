@@ -25,6 +25,6 @@
 | Support double/redouble | | |
 | Negative Doubles | | |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | to confirm |
-| Inverted minor raise | | |
+| [Xriss Xross](xriss-xross.md) | OK | To confirm |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | Game try after direct major raise | | |
