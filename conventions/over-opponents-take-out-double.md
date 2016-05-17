@@ -34,7 +34,7 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 - 4x : Forcing to game, 0-1 cards in this suit
 
 ## When NOT to use 
-- Opener opens in (3rd or 4th) and in majors, see Drudy.
+- Opener opens in (3rd or 4th) and in majors, see Drury.
 - Opener opens in minor
 
 
