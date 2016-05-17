@@ -24,7 +24,7 @@
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | Support double/redouble | | |
 | Negative Doubles | | |
-| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | to confirm |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | To discuss |
 | [Xriss Xross](xriss-xross.md) | OK | To discuss |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | Game try after direct major raise | | |
