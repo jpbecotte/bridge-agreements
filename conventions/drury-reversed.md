@@ -16,6 +16,6 @@ Responses of the opener are:
 
 ## When NOT to use
 - Opener is 1st or 2nd position
-- Opponent interferes
+- Opponent interferes except double
 
 - ♠♥♦♣
