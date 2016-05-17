@@ -36,6 +36,7 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 ## When NOT to use 
 - Opener opens in (3rd or 4th) and in majors, see Drury.
 - Opener opens in minor
+- 1♣ - X - XX = 6+ pts, 4+ in majors; ♠/♥ = 6+ pts, 4+ ♠/♥; 1NT = 6-9 pts without majors; 2NT = 11-12 pts without majors
 
 
 ♠♥♦♣
