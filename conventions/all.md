@@ -20,7 +20,7 @@
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
-| Reverse dury | | |
+| [Reverse dury](drury-reversed.md) | OK | to confirm |
 | [Bergen Major Suit Raises](bergen.md) | OK | to confirm |
 | Support double/redouble | | |
 | Negative Doubles | | |
