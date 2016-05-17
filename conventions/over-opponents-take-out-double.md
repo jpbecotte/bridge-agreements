@@ -36,7 +36,7 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 ## When NOT to use 
 - Opener opens in (3rd or 4th) and in majors, see Drury.
 - Opener opens in minor
-- 1♣ - X - 
+- If partner opens 1♣ then opponent double, the meaning of bid by responder is as the following 
 - XX = 6+ pts, 4+ in majors; 
 - 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
 - 1NT = 6-10 pts without majors; 
