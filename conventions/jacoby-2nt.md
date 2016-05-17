@@ -22,6 +22,6 @@ Z := Any suit except M
 ## When NOT to use
 - Opponent double
 - Opponent interferes at level 2
-- 
+
 ♥♥♦♣
 
