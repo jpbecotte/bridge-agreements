@@ -10,9 +10,6 @@ Example:
  - 1♣ - 2♣ (shows majors)
  - 1♥ - 2NT (shows minors)
  
-Not «on» after these:
-1♥ - 2♥ (shows spades and onther major)
- 
 ### How to use
 
 First, determine what are the available cuebids.
@@ -30,6 +27,9 @@ Example:
 - 1♥ - 2NT - 3♥ (6-10 pts, fit in heart)
 - 1♥ - 2NT - 3♠ (6-10 pts, not fit in heart but 4 cards of spades)
 - 1♥ - 2NT - 3NT (to play, stopping both minors... maybe not a good idea... maybe it's better to double)
+
+## When NOT to use
+- when one suit is not specified. e.g. 1♥ - 2♥ (shows spades and onther major)
 
 
  ♠♥♦♣
