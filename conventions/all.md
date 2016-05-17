@@ -20,11 +20,11 @@
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
-| [Reverse dury](drury-reversed.md) | OK | to confirm |
-| [Bergen Major Suit Raises](bergen.md) | OK | to confirm |
+| [Reverse dury](drury-reversed.md) | OK | OK |
+| [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | Support double/redouble | | |
 | Negative Doubles | | |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | to confirm |
-| [Xriss Xross](xriss-xross.md) | OK | To confirm |
+| [Xriss Xross](xriss-xross.md) | OK | To discuss |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | Game try after direct major raise | | |
