@@ -33,14 +33,26 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 - 3x : Game try
 - 4x : Forcing to game, 0-1 cards in this suit
 
-## When NOT to use 
-- Opener opens in (3rd or 4th) and in majors, see Drury.
-- Opener opens in minor
-- If partner opens 1♣ then opponent double, the meaning of bid by responder is as the following 
+## Partner opens in minors (1st or 2nd position)
+- If partner opens 1♣ in then opponent double, the meaning of bid by responder is as the following 
 - XX = 6+ pts, 4+ in majors; 
 - 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
 - 1NT = 6-10 pts without majors; 
-- 2NT = 11-12 pts without majors
+- 2NT = 11-12 pts without majors.
+
+## Partner opens in minors (3rd or 4th position) use rule of 15 to decide open or not.
+- If partner opens 1♣ in then opponent double, the meaning of bid by responder is as the following 
+- XX = 6+ pts, 4+ in majors; 
+- 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
+- 1NT = 6-10 pts without majors; 
+- 2NT = 11-12 pts without majors. 
+
+
+
+## When NOT to use 
+- Opener opens in (3rd or 4th) and in majors, see Drury.
+- Opener opens in minor
+
 
 
 ♠♥♦♣
