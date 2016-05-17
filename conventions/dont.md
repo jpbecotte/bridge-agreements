@@ -31,4 +31,9 @@ C := Any color except NT
 
 - If opponents talk, then the convention is over.
 
+## When not to use
+- opponent open weak 1NT (high range is 14 pts or lower)
+- when partner opens then opponent overcalls 1NT e.g. 1♦ - 1NT  and 1♦ - pass - pass - 1NT
+- when opponents opens 2NT
+
 ♠♥♦♣
