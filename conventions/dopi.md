@@ -16,6 +16,9 @@ Used when opponent interfere when we play a convention that requires steps. Exam
 
 Definition of step : Auction (bid) that would have been made normally without the interference.
 
+### When NOT to use
+- opponent's overcall is higher than our agreement.
+
  ♠♥♦♣
 
 
