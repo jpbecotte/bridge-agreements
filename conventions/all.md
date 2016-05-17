@@ -26,5 +26,5 @@
 | Negative Doubles | | |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | to confirm |
 | Inverted minor raise | | |
-| [Constructive major raise](constructive-major-raise.md) | to confirm | OK |
+| [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | Game try after direct major raise | | |
