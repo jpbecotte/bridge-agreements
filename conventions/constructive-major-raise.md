@@ -1,8 +1,8 @@
 #Constructive Major Raise
 - A raise of partner’s opening major to the 2-level shows 3 trumps and 8-9 pts.
-- A jump in partner’s opening major shows 3 trumps and 10-12 pts.
-- The sequence 1 major-1NT, 2 of a lower-ranking suit, then 2 of opener’s major suit shows that responder either does not have 8-9 pts or does not hold 3 cards in partner’s major.
+- A jump in partner’s opening major shows 3 trumps and 10-12 pts. (really? 1♠ - (p) - 3♠ is not supposed to be weak with 4 of the major support? To show an invitational hand, bit 1NT, then bid 3 of the major. No?)
 - With 13+ pts and 4+ cards in partner’s opening major, you have the option of a 2/1 game-forcing raise (holding a 5-card side suit, except 2♣) or either of Jacoby 2NT or a Splinter Bid.
+- The sequence 1 major-1NT, 2 of a lower-ranking suit, then 2 of opener’s major suit shows that responder either does not have 8-9 pts or does not hold 3 cards in partner’s major.
 - With 13-16 pts and 3 cards in partner’s opening major, bid 4 level of the major.
 - With 13-16 pts and no fit in partner’s opening major, bid 3NT.
 - With 17+ pts bid 2/1 game-forcing raise (not promising 5-card side suit) first
