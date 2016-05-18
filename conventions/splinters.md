@@ -9,5 +9,6 @@ Responses:
 
 
 ## When NOT to use
+- Opponent interferes and the double jump is no longer available
 
 ♠♥♦♣
