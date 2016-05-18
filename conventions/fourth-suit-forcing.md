@@ -7,12 +7,12 @@ First obligation is to raise the opener major colour to show 3 card support,
 Second obligation is to bid 2NT to show stopper in the fourth colour,
 rebid own suit to show extra length
 
-## Not in use when
+## When NOT to use
 
 - Not used when partner is a previous passed hand.
 - Not used after a 2/1 response.
 - Not used when opponent intervenes in the bidding
-- ****Not used after a reverse.**** -- to be discussed
+- Not used after a reverse. 
 - Not used after 2c open
 
 
