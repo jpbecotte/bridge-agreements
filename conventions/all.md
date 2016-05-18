@@ -15,7 +15,7 @@
 | [Gerber](gerber.md) | OK | OK|
 | [DOPI, ROPI](dopi.md) | To discuss | To discuss|
 | [Smolen](smolen.md) | OK |OK |
-| [Splinters](spliters.md) | OK | To confirm |
+| [Splinters](spliters.md) | To confirm | OK  |
 | [Stayman](stayman.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
