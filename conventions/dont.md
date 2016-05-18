@@ -13,10 +13,13 @@
 ```
 C := Any color except NT
 ```
-2C promises 8pts. Those points must be in the long suits bidded. (use the rule of eight, 6 points is enough) -http://www.bridgeguys.com/Conventions/Rule8.html
+2C promises 8tpts. Those points must be in the long suits bidded. (use the rule of eight, 6 high card pts is required) -http://www.bridgeguys.com/Conventions/Rule8.html
 
-- 2♣ : 5 clubs and 5 in another suit (Not nacessary 5 5 cards, 5 4 is also acceptable, the goal of DONT is to interfere opponents)
-- 2♦ : 5 diamonds and 5 in majors
+VUL: 5+ cards in both suits.
+NOT VUL 5+ and 4+ cards in two suits.
+
+- 2♣ : ♣ and another suit 
+- 2♦ : ♦ and a major suit
 - 2♥ : both majors
 - 2♠ : natural
 - X : 6 cards in an unspecified color
