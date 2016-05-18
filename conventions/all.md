@@ -16,7 +16,7 @@
 | [DOPI, ROPI](dopi.md) | To discuss | To discuss|
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](spliters.md) | OK | To confirm |
-| [Stayman](stayman.md) | |OK |
+| [Stayman](stayman.md) | OK | To Confirm |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | Ogust | | |
