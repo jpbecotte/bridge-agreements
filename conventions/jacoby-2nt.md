@@ -17,7 +17,9 @@ Z := Any suit except M
 - 3NT shows extra and is better than 3M (extra extra wow,19-21 points)
 
 ## When to use
-- opponent overcalls at level 1. e.g. 1♥-1♥-2NT  the 2NT is Jacoby 2NT
+- opponent overcalls at level 1. 
+- e.g. 1♥-1♥-2NT  the 2NT is Jacoby 2NT
+- e.g. 1♥-1NT-2NT  the 2NT is Jacoby 2NT
 
 ## When NOT to use
 - Opponent double
