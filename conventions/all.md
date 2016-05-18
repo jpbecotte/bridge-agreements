@@ -2,30 +2,33 @@
 
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
-| [Fourth Suit Game Forcing](fourth-suit-forcing.md) |To confirm | OK |
-| [New Minor Forcing](new-minor-forcing.md) | OK | OK|
+| Balancing | | |
+| [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | Cappelletti | | |
+| [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | [DONT](dont.md) | To confirm | OK |
-| Lebensohl | | |
+| [DOPI, ROPI](dopi.md) | OK | OK |
+| [Fourth Suit Game Forcing](fourth-suit-forcing.md) |To confirm | OK |
+| Game try after direct major raise | | |
+| [Gerber](gerber.md) | OK | OK|
 | [Jacoby 2NT](jacoby-2nt.md) | To confirm | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
+| Lebensohl | | |
 | Michaels | | |
+| Negative Doubles | | |
+| [New Minor Forcing](new-minor-forcing.md) | OK | OK|
+| [Ogust](ogust.md) | To confirm | OK |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
-| [Gerber](gerber.md) | OK | OK|
-| [DOPI, ROPI](dopi.md) | OK | OK |
+| [Reverse dury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
 | [Stayman](stayman.md) | OK | OK |
+| Support double/redouble | | |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
-| [Ogust](ogust.md) | To confirm | OK |
-| [Reverse dury](drury-reversed.md) | OK | OK |
-| [Bergen Major Suit Raises](bergen.md) | OK | OK |
-| Support double/redouble | | |
-| Negative Doubles | | |
-| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
 | [Xriss Xross](xriss-xross.md) | To confirm | OK |
-| [Constructive major raise](constructive-major-raise.md) | OK | OK |
-| Game try after direct major raise | | |
-| Balancing | | |
+
+
+
