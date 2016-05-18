@@ -24,7 +24,7 @@ Preempter bid following the next available bids. For example: 3♣ is the first 
 
 About suits:
 - Min and (VUL or 2ND) : not 2 of the top 3 honnors, but has 3 of the top 5 honnors
-- Min (otherwise) : may not have 2 of the top 3 honnors neither 3 of the top 5 honnors
+- Min (otherwise) : deny 2 of the top 3 honnors neither 3 of the top 5 honnors
 - Max and (VUL or 2ND) : has 3 of the top 5 honnors
 - Max (otherwise) : has 2 of the top 3 honnors or 3 of the top 5 honnors
 
