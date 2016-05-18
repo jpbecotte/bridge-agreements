@@ -19,7 +19,7 @@
 | [Stayman](stayman.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
-| [Ogust](ogust.md) | OK | To confirm |
+| [Ogust](ogust.md) | To confirm | OK |
 | [Reverse dury](drury-reversed.md) | OK | OK |
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | Support double/redouble | | |
