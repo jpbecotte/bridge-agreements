@@ -7,7 +7,7 @@
 | Cappelletti | | |
 | [DONT](dont.md) | To confirm | OK |
 | Lebensohl | | |
-| [Jacoby 2NT](jacoby-2nt.md) | OK | To confirm |
+| [Jacoby 2NT](jacoby-2nt.md) | To confirm | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
 | Michaels | | |
 | Puppet Stayman | | |
