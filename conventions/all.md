@@ -13,9 +13,9 @@
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
 | [Gerber](gerber.md) | OK | OK|
-| [DOPI, ROPI](dopi.md) | OK | To confirm |
+| [DOPI, ROPI](dopi.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
-| [Splinters](spliters.md) | OK | To confirm  |
+| [Splinters](splinters.md) | OK | To confirm  |
 | [Stayman](stayman.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
