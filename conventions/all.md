@@ -5,7 +5,7 @@
 | [Fourth Suit Game Forcing](fourth-suit-forcing.md) |To confirm | OK |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | Cappelletti | | |
-| [DONT](dont.md) | OK | To confirm |
+| [DONT](dont.md) | To confirm | OK |
 | Lebensohl | | |
 | [Jacoby 2NT](jacoby-2nt.md) | OK | To confirm |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
