@@ -4,9 +4,9 @@
 - showing 0-8 pts with singleton or void in club, no 5 cards of major, ideal hand is 4♠4♥4♦1♣ or 4♠4♥5♦0♣
 
 Responses 
-2♦ = no 4 cards major
-2♥ = 4 cards ♥
-2♠ = 4 cards ♠
+-2♦ = no 4 cards major
+-2♥ = 4 cards ♥
+-2♠ = 4 cards ♠
 
 
 ##When to use
