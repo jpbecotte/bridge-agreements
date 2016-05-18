@@ -32,8 +32,14 @@ About points:
 - Min : 6 to 8 tpts
 - Max : 9 to 11 tpts
 
-## When NOT to use
+## When  to use
+- After weak 2 open, opponents double. e.g. 2♥ - X - 2NT the 2NT is Ogust
+- After weak 2 open, opponents overcall at level 2. e.g. 2♥ - 2♠ - 2NT the 2NT is Ogust
 
-- Opponents interfere
+
+## When NOT to use
+- After weak 2 open, opponent overcalls at level 3
+- After weak 2 open, opponent overcalls 2NT
+- After partner bids 2NT, opponent bids anything including double, we will use DOPI(ROPI).
 
  ♠♥♦♣
