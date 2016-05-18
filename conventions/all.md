@@ -28,3 +28,4 @@
 | [Xriss Xross](xriss-xross.md) | To confirm | OK |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | Game try after direct major raise | | |
+| Balancing | | |
