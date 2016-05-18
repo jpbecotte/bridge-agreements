@@ -9,7 +9,7 @@
 | [DONT](dont.md) | To confirm | OK |
 | [DOPI, ROPI](dopi.md) | OK | OK |
 | [Fourth Suit Game Forcing](fourth-suit-forcing.md) |To confirm | OK |
-| Game try after direct major raise | | |
+| [Game try after direct major raise](game-try-help-suit.md) | To confirm |OK |
 | [Gerber](gerber.md) | OK | OK|
 | [Jacoby 2NT](jacoby-2nt.md) | To confirm | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
