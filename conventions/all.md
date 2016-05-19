@@ -21,7 +21,7 @@
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
-| [Reverse dury](drury-reversed.md) | OK | OK |
+| [Reverse Drury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
 | [Stayman](stayman.md) | OK | OK |
