@@ -6,18 +6,18 @@
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | Cappelletti | | |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
-| [DONT](dont.md) | To confirm | OK |
+| [DONT](dont.md) | OK | OK |
 | [DOPI, ROPI](dopi.md) | OK | OK |
-| [Fourth Suit Game Forcing](fourth-suit-forcing.md) |To confirm | OK |
-| [Game try after direct major raise](game-try-help-suit.md) | To confirm |OK |
+| [Fourth Suit Game Forcing](fourth-suit-forcing.md) | OK | OK |
+| [Game try after direct major raise](game-try-help-suit.md) | OK |OK |
 | [Gerber](gerber.md) | OK | OK|
-| [Jacoby 2NT](jacoby-2nt.md) | To confirm | OK |
+| [Jacoby 2NT](jacoby-2nt.md) | OK | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
 | Lebensohl | | |
 | Michaels | | |
 | Negative Doubles | | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
-| [Ogust](ogust.md) | To confirm | OK |
+| [Ogust](ogust.md) | OK | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
