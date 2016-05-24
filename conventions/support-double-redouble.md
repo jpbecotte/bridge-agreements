@@ -1,28 +1,32 @@
 # Support double/redouble
 
-After 1♦ - Pass - 1♥ - 1♠
+A support double happens with an oppenent interferes directly after partner made a bid that promises at least 4 four cards AND it is possible that he has 5 or more of them.
 
-- Double shows three-card heart support
-- 2♥ shows four-card heart support
-- Pass or other bids: fewer than three hearts
+````
+  Y := Suit bid by partner
+````
 
-A support redouble applies when Right Hand Opponent makes a take-out double: 1♦ - P - 1♠ - X
+- Double shows three-card support
+- 2Y shows four-card support
+- Pass or other bids: fewer than three card support
 
-- Redouble: three-card spade support
-- 2♠ shows four-card spade support
-- Pass or other bids: fewer than three spades
+A support redouble applies when Right Hand Opponent makes a take-out double: Ex: 1♦ - P - 1♠ - X
+
+- Redouble: three-card support
+- 2Y shows four-card support
+- Pass or other bids: fewer than three cards support
 
 ## When to use
 - e.g.
-- Pass - 1♣ - 1♥ - 1♠ 
-- 2♥ - Double (showing 3 spades)/2♠ (showing 4 spades)
-- e.g. 
-- 1♦ - 1♥ -	2♣ - 2♦
-- Dbl(showing 3 clubs)
-
-
+- Pass - 1♣ - (1♥) - 1♠ - (2♥) - X - XX (showing 3 spades)/2♠ (showing 4 spades)
+- 1♦ - (1♥) -	2♣ - (2♦) - X (showing 3 clubs)
 
 ## When NOT to use
-- Opponent interferes 3♠ or higher. e.g. 1♦ - Pass - 1♥ - 3♠
+- Opponent interferes 3♠ or higher. e.g. 1♦ - (Pass) - 1♥ - (3♠)
+- When partner's bid promises exactly 4 cards. Ex: 1♣ - (1♥) - X (partner shows exacly 4 spades) - (1NT) - double support not on 
+
+## Examples
+
+1♦ - (Pass) - 1♥ - (1♠) - X
 
 ♠♥♦♣
