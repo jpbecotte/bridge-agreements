@@ -3,7 +3,7 @@
 ## When in use
 
 - For interfering 1NT opening by opponents. 
-- Only when their maximum range is 15.
+- Only when their maximum range is 15 or lower.
 - For direct interference or after a PASS of opener's partner and PASS of partner.
 
 ## Bids
@@ -33,7 +33,7 @@ NOT VUL 5+ and 4+ cards in two suits.
 ## When not to use
 - opponent open strong 1NT (15-17 or 15-18 or 14-16)
 - when partner opens then opponent overcalls 1NT e.g. 1♦ - 1NT  and 1♦ - pass - pass - 1NT
-- when opponents opens 2NT
+- when opponent opens 2NT
 
 ♠♥♦♣
 
