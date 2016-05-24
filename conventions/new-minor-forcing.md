@@ -20,7 +20,7 @@ Priorities:
 - 2W => 4 in other major
 - A bid that describe his hand best (2NT, 3 in minor,)
 
-When NOT used
+##When NOT to use
 - Opponents talk anything in any position.
 
 
