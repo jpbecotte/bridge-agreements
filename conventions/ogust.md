@@ -1,6 +1,6 @@
 # Ogust
 
-Partner preempts but you havea good hand? Ogust is there to help!
+Partner preempts but you have a good hand? Ogust is there to help!
 
 ### How to use
 
@@ -13,7 +13,7 @@ If those requirements are met, then you can bid:
 
 ### Preempter's rebid
 
-Preempter bid following the next available bids. For example: 3♣ is the first available bid after 2NT, 3♥ is the 3rd available bid after 2NT, etc.
+Preempter bids following the next available bids. For example: 3♣ is the first available bid after 2NT, 3♥ is the 3rd available bid after 2NT, etc.
 
 | Bid | About suit | About points |
 | ---- | ---- | ---- |
@@ -24,8 +24,8 @@ Preempter bid following the next available bids. For example: 3♣ is the first 
 
 About suits:
 - Min and (VUL or 2ND) : not 2 of the top 3 honnors, but has 3 of the top 5 honnors
-- Min (otherwise) : deny 2 of the top 3 honnors neither 3 of the top 5 honnors
-- Max and (VUL or 2ND) : has 3 of the top 5 honnors
+- Min (otherwise) : deny 2 of the top 3 honnors and 3 of the top 5 honnors
+- Max and (VUL or 2ND) : has 2 of the top 3 honnors
 - Max (otherwise) : has 2 of the top 3 honnors or 3 of the top 5 honnors
 
 About points:
