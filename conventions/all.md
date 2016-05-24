@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Balancing | | |
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
-| Cappelletti | | |
+| [Cappelletti](cappelletti.md) | OK | To confirm  |
 | [Constructive major raise](constructive-major-raise.md) | OK | To confirm |
 | [DONT](dont.md) | To discuss | To discuss |
 | [DOPI, ROPI](dopi.md) | OK | OK |
