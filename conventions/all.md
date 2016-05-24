@@ -18,7 +18,7 @@
 | Negative Doubles | | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | To confirm | OK |
-| [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | To confirm | OK |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
