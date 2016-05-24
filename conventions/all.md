@@ -14,7 +14,7 @@
 | [Jacoby 2NT](jacoby-2nt.md) | OK | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
 | Lebensohl | | |
-| [Michaels and 2NT unusual](michaels.md) | OK | To confirm |
+| [Michaels and 2NT unusual](michaels.md) | OK | OK |
 | Negative Doubles | | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | OK | OK |
@@ -25,7 +25,7 @@
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
 | [Stayman](stayman.md) | OK | OK |
-| [Support double/redouble](support-double-redouble.md) | OK | To confirm |
+| [Support double/redouble](support-double-redouble.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | [Xriss Xross](xriss-xross.md) | OK | OK |
