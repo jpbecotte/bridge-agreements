@@ -10,7 +10,7 @@ A support double happens with an oppenent interferes directly after partner made
 - 2Y shows four-card support
 - Pass or other bids: fewer than three card support
 
-A support redouble applies when Right Hand Opponent makes a take-out double: Ex: 1♦ - P - 1♠ - X
+A support redouble applies when Right Hand Opponent makes a take-out double: Ex: 1♦ - (P) - 1♠ - (X)
 
 - Redouble: three-card support
 - 2Y shows four-card support
