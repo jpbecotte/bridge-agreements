@@ -17,7 +17,7 @@
 | [Michaels and 2NT unusual](michaels.md) | OK | OK |
 | Negative Doubles | | |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
-| [Ogust](ogust.md) | OK | OK |
+| [Ogust](ogust.md) | To confirm | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | OK | OK |
 | Puppet Stayman | | |
 | Roman Key Card Blackwood (1430) | | |
