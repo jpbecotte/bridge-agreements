@@ -28,21 +28,21 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 
 ## After 1M - (X) - 2NT
 
-- 3M : Minimum hand
-- 4M : Showing extras
-- 3x : Game try
-- 4x : Forcing to game, 0-1 cards in this suit
+- 3M : Minimum hand (13-15 pts)
+- 4M : Showing extras (16-21 pts)
+- 3x : Help suit game try (2 or more losers in the suit)
+- 4x : Forcing to game (0-1 cards in this suit, 16-21 pts)
 
 ## Partner opens in minors (1st or 2nd position)
 - If partner opens 1♣ in then opponent double, the meaning of bid by responder is as the following 
-- XX = 6+ pts, 4+ in majors; 
+- XX = 6+ pts, 4+ in both majors; 
 - 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
 - 1NT = 6-10 pts without majors; 
 - 2NT = 11-12 pts without majors.
 
 ## Partner opens in minors (3rd or 4th position) use rule of 15 to decide open or not.
 - If partner opens 1♣ in then opponent double, the meaning of bid by responder is as the following 
-- XX = 6+ pts, 4+ in majors; 
+- XX = 6+ pts, 4+ in both majors; 
 - 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
 - 1NT = 6-10 pts without majors; 
 - 2NT = 11-12 pts without majors. 
