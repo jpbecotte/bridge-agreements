@@ -25,7 +25,7 @@
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
 | [Stayman](stayman.md) | OK | OK |
-| [Support double/redouble](support-double-redouble.md) | To confirm | OK |
+| [Support double/redouble](support-double-redouble.md) | OK | To confirm |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
 | [Xriss Xross](xriss-xross.md) | OK | OK |
