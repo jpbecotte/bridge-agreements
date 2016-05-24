@@ -15,6 +15,7 @@ Z := Any suit except M
 - 3Z means a splinter (this is not splinter, because splinter by opener promises 18+ pts, 3Z is 13+ pts with singlton or void -- NOT WITH 2NT JACOBY!!!!)
 - 4Z means a long and strong new suit (13+ points)
 - 3NT shows extra and is better than 3M (extra extra wow,19-21 points)
+- 4M 13-15 pts
 
 ## When to use
 - opponent overcalls at level 1. 
