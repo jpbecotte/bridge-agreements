@@ -10,13 +10,14 @@ After 2NT, 3♣ is puppet stayman. It asks for a 4 or 5 cards major.
 
 ## Opener's answers
 
-- 3♦ : I do have a 4 card major. Responder's rebid:
-  - 3♥ : I do have 4♠
-  - 
-- 2♥ : Shows ♥ and a minor suit. 
-- 2♠ : Shows ♠ and a minor suit.
-- 2NT : Shows both minor suits.
-- X : Shows x points, where x is the maximum range of the 1NT opponent's opening.
+  - 3♦ : I do have a 4 card major. Responder's rebid:
+    - 3♥ : I do have 4 ♠
+    - 3♠ : I do have 4 ♥
+    - 4♦ : I do have 4 ♠ and 4 ♥.
+  - 2♥ : Shows ♥ and a minor suit. 
+  - 2♠ : Shows ♠ and a minor suit.
+  - 2NT : Shows both minor suits.
+  - X : Shows x points, where x is the maximum range of the 1NT opponent's opening.
 
 ## Important
 
