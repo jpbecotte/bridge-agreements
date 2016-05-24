@@ -16,6 +16,6 @@ Opponents pass or double after the NT bid
 
 ## When not to use
 
-Opponents overcall anything except pass and double
+Opponents overcall anything except double
 
 ♠♥♦♣
