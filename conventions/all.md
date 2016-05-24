@@ -20,7 +20,7 @@
 | [Ogust](ogust.md) | OK | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | To discuss | To discuss |
 | Puppet Stayman | | |
-| Roman Key Card Blackwood (1430) | | |
+| [Roman Key Card Blackwood (1430)](1430.md) | To discuss | To discuss |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
