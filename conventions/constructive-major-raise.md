@@ -15,5 +15,5 @@
 ## When NOT to use
 - Opener is 3rd or 4th position
 - Opponent interferes
-- 
+
 - ♠♥♦♣
