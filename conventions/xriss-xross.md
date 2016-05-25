@@ -19,12 +19,10 @@ The continuation: after crossing in the other minor, the players show aces in ot
 
 # When to use
 
-- Opener is 1st or 2nd position and opens in minor.
+- Opener is 1st, 2nd, 3rd or 4th position and opens in minor.
 - Responder denies a 4 major suit
 
 # When NOT to use
-
-- Opener is 3rd or 4th position
-- Opponent interferes
+- Opponent interferes except double
 
 ♠♥♦♣
