@@ -24,7 +24,7 @@
 | [Reverse Drury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
-| [Stayman](stayman.md) | To confirm  | OK |
+| [Stayman](stayman.md) | OK  | OK |
 | [Support double/redouble](support-double-redouble.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
