@@ -28,7 +28,7 @@
 | [Support double/redouble](support-double-redouble.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
-| [Xriss Xross](xriss-xross.md) | OK | OK |
+| [Xriss Xross](xriss-xross.md) | To confirm  | OK |
 
 
 
