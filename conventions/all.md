@@ -18,7 +18,7 @@
 | [Negative Double](negative-double.md) | | OK |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | OK | OK |
-| [Over opponents take-out double](over-opponents-take-out-double.md) | To discuss | To discuss |
+| [Over opponents take-out double](over-opponents-take-out-double.md) | To confirm  | OK |
 | [Puppet Stayman](puppet-stayman.md) | To discuss  | To discuss |
 | [Roman Key Card Blackwood (1430)](1430.md) | To discuss | To discuss |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
