@@ -15,7 +15,7 @@
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
 | Lebensohl | | |
 | [Michaels and 2NT unusual](michaels.md) | OK | OK |
-| Negative Doubles | | |
+| [Negative Double](negative-double.md) | | OK |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | OK | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | To discuss | To discuss |
