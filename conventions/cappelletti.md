@@ -26,14 +26,16 @@ NOT VUL 5+ and 4+ cards in two suits.
 - 2NT : Shows both minor suits.
 - X : Shows x points, where x is the maximum range of the 1NT opponent's opening.
 
-## Important
+## When to use
+- 1NT-P-P-X/2♣/2♦/2♥/2♠
 
-- If opponents talk, then the convention is over. (TO CONFIRM)
 
 ## When not to use
 - opponent open strong 1NT (15-17 or 15-18 or 14-16)
 - when partner opens then opponent overcalls 1NT e.g. 1♦ - 1NT  and 1♦ - pass - pass - 1NT
 - when opponent opens 2NT
+- 1NT-P-any bid- partner bids naturally
+- 1NT-X/2♣/2♦/2♥/2♠-any bid- partner bids naturally
 
 ♠♥♦♣
 
