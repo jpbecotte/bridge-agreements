@@ -6,7 +6,6 @@ After 2NT, 3♣ is puppet stayman. It asks for a 4 or 5 cards major.
 
 - After 2NT opening. 
 - After 2♣ - ? - 2♦/2♥/2♠ - p - 2NT sequence. 
-- After 1x - ? - 2NT sequence.  -- To discuss 2NT already denied majors.
 
 ## Opener's answers
 
