@@ -33,7 +33,7 @@ NOT VUL 5+ and 4+ cards in two suits.
 ## Important
 
 - If opponents talk, then the convention is over.
-- to discuss: 1NT- pass - 2♣ - 2♦   what is the 2♦ here? Nature or DONT?
+- 1NT- pass - 2♣/♦/♥, any bid after that is nature.
 
 ## When not to use
 - opponent open weak 1NT (high range is 14 pts or lower)
