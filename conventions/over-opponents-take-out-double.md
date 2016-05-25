@@ -33,19 +33,19 @@ If the 4th player's bid is passed around, the Redoubler must take action, usuall
 - 3x : Help suit game try (2 or more losers in the suit)
 - 4x : Forcing to game (0-1 cards in this suit, 16-21 pts)
 
-## Partner opens in minors (1st or 2nd position)
+## Partner opens in minors 
 - If partner opens 1♣/1♦ and then opponent double, the meaning of bid by responder is as the following (with priorities):
   - XX = 6+ pts, 4+ in both majors; 
   - 1 ♠/♥ = 6+ pts, 4+ ♠/♥; 
   - With a 5 card support and 11+ tpts, make a jump in the other minor (Xriss-Xross bid)
   - With a 5 card support and 6-10 tpts, say 2m.
   - With a 5 card support and 5 or less tpts, jump to 3m.
-  - 1NT = 6-12 tpts without majors and no fit (semi-forcing). 
+  - 1NT = 6-10 tpts without majors and no fit. 
+  - 2NT = 11-12 tpts without majors and no fit. 
+  - 3NT = 13-19 tpts without majors and no fit. 
 
-## Partner opens in minors (3rd or 4th position) use rule of 15 to decide open or not.
-- See above for responses.
 
 ## When NOT to use 
-- Opener opens in (3rd or 4th) and in majors, see Drury.
+- Opener opens major in 3rd or 4th position, see Drury.
 
 ♠♥♦♣
