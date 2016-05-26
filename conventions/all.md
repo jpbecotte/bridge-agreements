@@ -13,7 +13,7 @@
 | [Gerber](gerber.md) | OK | OK|
 | [Jacoby 2NT](jacoby-2nt.md) | OK | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
-| Lebensohl | | |
+| [Lebensohl](lebensohl.md) | | OK |
 | [Michaels and 2NT unusual](michaels.md) | OK | OK |
 | [Negative Double](negative-double.md) | | OK |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
