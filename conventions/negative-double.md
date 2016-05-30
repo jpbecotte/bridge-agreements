@@ -19,5 +19,8 @@ and is used to show support for the unbid suits as well as some values. It is tr
 ## When NOT to use
 - opponent overcalls NT. e.g. 1♣/♦/♥/♠ – (1NT/2NT) - double is panety
 
+## Questions :
+- Should it be 8+tpts when opener is forced to talk at level 2?
+- Should 1♦ – (2♣) - X: show 4+cards in both majors?
 
 ♠♥♦♣
