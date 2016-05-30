@@ -25,7 +25,7 @@
 | [Smolen](smolen.md) | OK | OK |
 | [Splinters](splinters.md) | OK | OK |
 | [Stayman](stayman.md) | OK  | OK |
-| [Strong Jump Overcalls](strong-jump-overcalls.md) | OK | To confirm |
+| [Strong Jump Overcalls](strong-jump-overcalls.md) | OK | OK |
 | [Support double/redouble](support-double-redouble.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
