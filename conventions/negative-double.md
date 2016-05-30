@@ -6,10 +6,10 @@ and is used to show support for the unbid suits as well as some values. It is tr
 - 1♣ – (1♦) - X: 4+♠ and 4+♥ and 6+pts
 - 1m – (1♥) - X: 4♠ and 6+pts
 - 1m – (1♠) - X: 4+♥ and 6+pts
-- 1M – (2m) - X: 4+ cards in the other major and 6+pts.
-- 1♦ – (2♣) - X: 4+ cards in one major and 6+pts.
+- 1M – (2m) - X: 4+ cards in the other major and 8+pts.
+- 1♦ – (2♣) - X: 4+ cards in one major and 8+pts.
 - 1♥ - (1♠) - X: 4+♦ and 4+♣ and 6+pts
-- 1♠ - (2♥) - X: 4+♦ and 4+♣ and 6+pts
+- 1♠ - (2♥) - X: 4+♦ and 4+♣ and 8+pts
 
 
 ## When to use
@@ -20,7 +20,7 @@ and is used to show support for the unbid suits as well as some values. It is tr
 - opponent overcalls NT. e.g. 1♣/♦/♥/♠ – (1NT/2NT) - double is panety
 
 ## Questions :
-- Should it be 8+tpts when opener is forced to talk at level 2?
-- Should 1♦ – (2♣) - X: show 4+cards in both majors?
+- Should it be 8+tpts when opener is forced to talk at level 2?  -- Yes, that is better.
+- Should 1♦ – (2♣) - X: show 4+cards in both majors?  -- it depends on partnership, we will discuss about it.
 
 ♠♥♦♣
