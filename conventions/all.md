@@ -19,8 +19,8 @@
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | OK | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | To confirm  | OK |
-| [Puppet Stayman](puppet-stayman.md) | To confirm  | OK |
-| [Roman Key Card Blackwood (1430)](1430.md) | To discuss | To discuss |
+| [Puppet Stayman](puppet-stayman.md) | To discuss  | To discuss |
+| [Roman Key Card Blackwood (1430)](1430.md) | To discuss, yes | To discuss, yes |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK |OK |
 | [Splinters](splinters.md) | OK | OK  |
