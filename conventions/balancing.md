@@ -12,7 +12,7 @@ A player is in the passed out seat if two passed has occured and if he pass, the
 Both partners must realize that they are in balancing mode. If the balancer bids, then his partner must act accordingly.
 
 When balancing is ON:
-- Balancer adds 3 tpts to his hand and bid something with these 3tpts.
+- Balancer adds 3 tpts to his hand and bid something with this adjusted hand.
 - Unless specified in this article, balancing mode does not tell anything about shape or suits. (the bid itself tells about that).
 - Balancer's partner must deduce 3 tpts to make his respond bid.
 - After points adjustment (+3/-3), these adjustments are in effect for the rest of the auctions.
