@@ -1,8 +1,8 @@
 # Lebensohl
 
-Lebensohl is a contract bridge convention used by responder after an opponent's overcall of a one notrump (1NT) opening bid in order to compete further in the auction without necessarily committing the partnership to game. Lebensohl can also be used after opponents' weak-two bids and in responding to a reverse by partner.
+Lebensohl is a contract bridge convention used by responder after an opponent's overcall of a one notrump (1NT) opening bid in order to compete further in the auction without necessarily committing the partnership to game. Lebensohl can also be used after opponents' weak-two bids and in responding to a reverse by partner. -- this is misleading. We should not say IT CAN or what others play. This text must say what we do play...
 
-#After an overcall of a 1NT opening
+## After an overcall of a 1NT opening
 Lebensohl can be initiated by responder after partner has opened 1NT and right hand opponent (RHO) has overcalled with a suit bid at the two level:
 
 | Responder’s Bid | Meaning and Subsequent Bidding |
