@@ -1,4 +1,4 @@
-| file name        | Reviewed By JP           | Reviewed by Zhong |
+| Topic        | Reviewed By JP           | Reviewed by Zhong |
 | ------------- |:-------------:| -----:|
 | [General](general.md) | To discuss | To discuss |
 | [Leads](leads.md) | Incomplete | Incomplete |
