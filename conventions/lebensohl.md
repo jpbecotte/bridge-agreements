@@ -22,9 +22,7 @@ Lebensohl can be initiated by responder after partner has opened 1NT and right h
 ## When NOT to use
 - Opponent double 1NT. e.g. 1NT-X   transfer is on, Lebensohl is off
 - Opponent interferes at 2NT or higher when partner opens 1NT.
-
-
-
+- -- really? what if they preempt 3 hearts?
 
 #After a Weak-two
 After a Weak-two opening and a takeout double, Lebensohl is used to enable a better indication of the strength of the responder to the doubler.
