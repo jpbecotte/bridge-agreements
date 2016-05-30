@@ -2,7 +2,7 @@
 
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
-| Balancing | | |
+| [Balancing](balancing.md) | OK | To Confirm |
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | [Cappelletti](cappelletti.md) | To discuss | To discuss  |
 | [Constructive major raise](constructive-major-raise.md) | To discuss  | To discuss |
