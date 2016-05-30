@@ -22,9 +22,10 @@
 | [Puppet Stayman](puppet-stayman.md) | To discuss  | To discuss |
 | [Roman Key Card Blackwood (1430)](1430.md) | To discuss, yes | To discuss, yes |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
-| [Smolen](smolen.md) | OK |OK |
-| [Splinters](splinters.md) | OK | OK  |
+| [Smolen](smolen.md) | OK | OK |
+| [Splinters](splinters.md) | OK | OK |
 | [Stayman](stayman.md) | OK  | OK |
+| [Strong Jump Overcalls](strong-jump-overcalls.md) | OK | To confirm |
 | [Support double/redouble](support-double-redouble.md) | OK | OK |
 | [Texas Transfers](texas-transfers.md) | OK |OK |
 | [Unusual vs. Unusual](unusual-over-unusual.md) | OK |OK |
