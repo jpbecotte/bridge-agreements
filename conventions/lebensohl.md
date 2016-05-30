@@ -24,19 +24,20 @@ Lebensohl can be initiated by responder after partner has opened 1NT and right h
 - Opponent interferes at 2NT or higher when partner opens 1NT.
 - -- really? what if they preempt 3 hearts?
 
-#After a Weak-two
-After a Weak-two opening and a takeout double, Lebensohl is used to enable a better indication of the strength of the responder to the doubler.
+## After a Weak-two
+After a Weak-two opening and a takeout double (please indicate the required points), Lebensohl is used to enable a better indication of the strength of the responder to the doubler.
 
 For example after (2♠) – Dbl – (P):
 
 - With 0-7 points 2NT is bid forcing a relay of 3♣. This is either passed or corrected to another suit.
-- With 8-11 points suits are bid at the 3 level.
-- With values for game it is bid.
+- With 8-11 points suits are bid at the 3 level. -- is it forcing?
+- With values for game it is bid. -- what do you mean?
 
 If there is space to bid a suit at the 2 level; e.g. after (2♥) – Dbl – (P) and the suit held is spades:
 - With 0-7 points bid 2♠
 - With 8-11 points 2NT is bid forcing a relay of 3♣. Then 3♠ is bid showing the invite.
 - 3♠ is now game forcing.
+
 With a very strong hand the doubler can by-pass 3♣.
 
 ## When to use
@@ -45,14 +46,15 @@ With a very strong hand the doubler can by-pass 3♣.
 -  Opponent raises after double e.g. (2♠) – Dbl – (3♠)
 -  partner opens then opponent overcalls preemptively e.g. (1♦)-(2♠)
 
-
-#After a non-game-forcing reverse
+## After a non-game-forcing reverse
 After the sequence 1♦ – (P) – 1♠ – (P); 2♥ – (P) – ?:
 
 - 2♠ shows a weak hand with 5+ spades
 - 2NT shows a minimum hand and forces 3♣. Preference is usually then given for openers suits.
 - Any other bid is now game forcing.
 This has the effect of saving space when responder wants to force game and show support.
+
+- Need to discuss!
 
 ## When to use
 
