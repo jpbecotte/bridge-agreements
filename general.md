@@ -1,7 +1,8 @@
 
 1. Total points calculation:
-  * support points: void 4, singleton 3, doubleton 1
-  * length points: 2 points for each extra card 
+  * support points (sp): void 4, singleton 3, doubleton 1. Calculable only when fit is established.
+  * length points (lp) : 1 point for each extra card from the 5th card. 
+  * tpts is max(has_fit?(hcp + sp, 0), hcp + lp).
 2. Points range(total points):
   * opening:
   	* 13-15 (including good 10,11,12 if the rule of 22 applies)
@@ -27,12 +28,12 @@
 9. Level 2 overcall:
    Opponent open 1S, direct 2H = 10-16 pts, if >=17 pts double
    Opponent opens 1c, Pass, 1S, 2H = 13-16 pts 
-10. 1NT balancing promises 12-15 points.
+10. 1NT balancing promises 12-15 tpts.
 11. After take out double at level 1, 
-   if opponent passes, raise = 0-8 pts; jump = 9+ pts 
-   if opponent talks, pass = 0-4 pts; raise = 5-8 pts; jump = 9+ pts
+   if opponent passes, raise = 0-8 pts; jump = 9+ pts -- is it tpts?
+   if opponent talks, pass = 0-4 pts; raise = 5-8 pts; jump = 9+ pts -- is it tpts ?
 12. Never lead under A against trump contract. 
     Lead under A against no trump contract is allowed.
 13. NEVER overcall with 4 cards
-14. After Gerber or 1430, responder is the captain. NEVER overcall the captain's decision
+14. After Gerber or 1430, responder is the captain. NEVER overcall the captain's decision. -- What do you mean? The person who does 4NT is the captain or the other one?
 
