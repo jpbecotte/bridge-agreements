@@ -1,6 +1,6 @@
 # Michaels and Unusual 2NT
 
-When opponents bid at level 1, this intervention shows a 5-5 (bicolor) hand AND (weak or strong values).
+When opponents bid at level 1, this intervention shows a 5-5(4) (bicolor) hand AND (weak or strong values).
 
 ````
   M := major suit
@@ -20,7 +20,7 @@ When opponents bid at level 1, this intervention shows a 5-5 (bicolor) hand AND 
 - When balancing
 
 ## When NOT to use
-- Opener is a passed hand.
+- Opener is 3rd or 4th place.
 - Opponents talk in two suits or more.
 
 ♠♥♦♣
