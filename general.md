@@ -35,5 +35,5 @@
 12. Never lead under A against trump contract. 
     Lead under A against no trump contract is allowed.
 13. NEVER overcall with 4 cards
-14. After Gerber or 1430, responder is the captain. NEVER overcall the captain's decision. -- What do you mean? The person who does 4NT is the captain or the other one?
-
+14. After Gerber or 1430, responder is the captain. NEVER overcall the captain's decision. -- disagree
+15. If you ask for aces in a trump fit, and if you have 4 of the 5 keycards, there's an obligation to bid the small slam (you cannot retreat to the 5 level). In other words: don't ask for aces if you don't plan to go to at least the small slam with 4 keycards.
