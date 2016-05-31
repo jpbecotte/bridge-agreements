@@ -3,7 +3,7 @@
 - It shows a void or singleton in that color (artificial, alertable), 13 tpts and 4 cards support.
 
 Responses:
-- Everything from there is ace cuebidding.
+- Everything from there is ace/void cuebidding.
 
 ## When to use
 - Partner opens in majors in 1st or 2nd seat.
