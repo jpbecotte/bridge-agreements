@@ -14,7 +14,6 @@ Other situations:
 
 ## When to use
 - RHO's bid is weak.
-- 
 
 
 ♠♥♦♣
