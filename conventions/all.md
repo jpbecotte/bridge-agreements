@@ -4,8 +4,8 @@
 | --- | --- | --- |
 | [Balancing](balancing.md) | OK | OK |
 | [Bergen Major Suit Raises](bergen.md) | OK | OK |
-| [Cappelletti](cappelletti.md) | To discuss | To discuss  |
-| [Constructive major raise](constructive-major-raise.md) | To discuss  | To discuss |
+| [Cappelletti](cappelletti.md) | To confirm | OK  |
+| [Constructive major raise](constructive-major-raise.md) | To confirm | OK |
 | [DONT](dont.md) | OK | OK |
 | [DOPI, ROPI](dopi.md) | OK | OK |
 | [Fourth Suit Game Forcing](fourth-suit-forcing.md) | OK | OK |
@@ -20,7 +20,7 @@
 | [Ogust](ogust.md) | OK | OK |
 | [Over opponents take-out double](over-opponents-take-out-double.md) | To discuss  | to discuss |
 | [Puppet Stayman](puppet-stayman.md) | To discuss  | To discuss |
-| [Roman Key Card Blackwood (1430)](1430.md) | To discuss, yes | To discuss, yes |
+| [Roman Key Card Blackwood (1430)](1430.md) | To confirm | OK |
 | [Reverse Drury](drury-reversed.md) | OK | OK |
 | [Smolen](smolen.md) | OK | OK |
 | [Splinters](splinters.md) | OK | OK |
