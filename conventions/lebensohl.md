@@ -58,8 +58,6 @@ After the sequence 1♦ – (P) – 1♠ – (P); 2♥ – (P) – ?:
 - Any other bid is now game forcing.
 This has the effect of saving space when responder wants to force game and show support.
 
-- Need to discuss!
-
 ## When to use
 
 ## When NOT to use
