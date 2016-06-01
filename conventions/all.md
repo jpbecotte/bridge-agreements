@@ -3,7 +3,7 @@
 | Convention name | Reviewed By JP | Reviewed by Zhong |
 | --- | --- | --- |
 | [Balancing](balancing.md) | OK | OK |
-| [Bergen Major Suit Raises](bergen.md) | OK | To confirm |
+| [Bergen Major Suit Raises](bergen.md) | OK | OK |
 | [Cappelletti](cappelletti.md) | OK | OK  |
 | [Constructive major raise](constructive-major-raise.md) | OK | OK |
 | [DONT](dont.md) | OK | OK |
@@ -11,10 +11,10 @@
 | [Fourth Suit Game Forcing](fourth-suit-forcing.md) | OK | OK |
 | [Game try after direct major raise](game-try-help-suit.md) | OK |OK |
 | [Gerber](gerber.md) | OK | OK|
-| [Jacoby 2NT](jacoby-2nt.md) | OK | To confirm |
+| [Jacoby 2NT](jacoby-2nt.md) | OK | OK |
 | [Jacoby Transfers](jacoby-transfers.md) | OK | OK |
 | [Lebensohl](lebensohl.md) | OK | OK |
-| [Michaels and 2NT unusual](michaels.md) | OK | To confirm |
+| [Michaels and 2NT unusual](michaels.md) | OK | OK |
 | [Negative Double](negative-double.md) | OK | To confirm |
 | [New Minor Forcing](new-minor-forcing.md) | OK | OK|
 | [Ogust](ogust.md) | OK | OK |
