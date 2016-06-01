@@ -18,7 +18,6 @@ When opponents bid at level 1, this intervention shows a 5-5(4) (bicolor) hand A
 - Opener is 3rd or 4th place.
 - Must have 8-11tpts or 16+ tpts.
 - Must have 5-5 when vulnerable or 5-4 when non-vulnerable.
-- When balancing (every convention is playable with balancing. For clarity, can we remove that?)
 
 ## When NOT to use
 - Opponents talk in two suits or more.
