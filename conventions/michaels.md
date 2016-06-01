@@ -15,12 +15,12 @@ When opponents bid at level 1, this intervention shows a 5-5(4) (bicolor) hand A
 
 ## When to use
 - Opener is 1st or 2nd place.
+- Opener is 3rd or 4th place.
 - Must have 8-11tpts or 16+ tpts.
 - Must have 5-5 or 5-4 when non-vulnerable.
 - When balancing
 
 ## When NOT to use
-- Opener is 3rd or 4th place.
 - Opponents talk in two suits or more.
 
 ♠♥♦♣
