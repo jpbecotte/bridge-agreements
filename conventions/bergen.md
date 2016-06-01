@@ -6,6 +6,7 @@ Responses
 
 ##When to use
 - Opener is 1st or 2nd place.
+- The jump is available.
 
 ##When NOT to use
 - Opener is 3rd or 4th place.
