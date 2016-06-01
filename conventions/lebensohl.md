@@ -1,6 +1,6 @@
 # Lebensohl
 
-Lebensohl is a contract bridge convention used by responder after an opponent's overcall of a one notrump (1NT) opening bid in order to compete further in the auction without necessarily committing the partnership to game. Lebensohl can also be used after opponents' weak-two bids and in responding to a reverse by partner. -- this is misleading. We should not say IT CAN or what others play. This text must say what we do play...
+Lebensohl is a contract bridge convention used by responder after an opponent's overcall of a one notrump (1NT) opening bid in order to compete further in the auction without necessarily committing the partnership to game. Lebensohl is also used after opponents' weak-two bids and in responding to a reverse by partner. 
 
 ## After an overcall of a 1NT opening
 Lebensohl can be initiated by responder after partner has opened 1NT and right hand opponent (RHO) has overcalled with a suit bid at the two level:
@@ -27,17 +27,21 @@ Lebensohl can be initiated by responder after partner has opened 1NT and right h
 ## After a Weak-two
 After a Weak-two opening and a takeout double (please indicate the required points), Lebensohl is used to enable a better indication of the strength of the responder to the doubler.
 
+Against  2♥/♦, 13 tpts is needed; Against 2♠ 15 tpts is needed for double.
+
 For example after (2♠) – Dbl – (P):
 
 - With 0-7 points 2NT is bid forcing a relay of 3♣. This is either passed or corrected to another suit.
-- With 8-11 points suits are bid at the 3 level. -- is it forcing?
-- With values for game it is bid. -- what do you mean?
+- With 8-11 points suits are bid at the 3 level (not forcing). 
+- With values for game, bid game. 
+- 3NT is fast deny stopper, if partner has stopper, he passes; if not, bids the cheapest suit.
 
 If there is space to bid a suit at the 2 level; e.g. after (2♥) – Dbl – (P) and the suit held is spades:
 - With 0-7 points bid 2♠
 - With 8-11 points 2NT is bid forcing a relay of 3♣. Then 3♠ is bid showing the invite.
 - 3♠ is now game forcing.
-
+- 3NT is fast deny stopper, if partner has stopper, he passes; if not, bids the cheapest suit.
+-
 With a very strong hand the doubler can by-pass 3♣.
 
 ## When to use
