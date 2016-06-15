@@ -17,7 +17,7 @@ After hearing a help suit game try, responder should bid game with 0 - 1.5 loser
 With 2 - 2.5 losers, responder must exercise judgement. 
 And with 3 losers (e.g. a worthless tripleton), responder should sign off in 3♥/♠. 
 
-
+New suit at level 4 is first round control cubid.
 
 
 ## When to use
