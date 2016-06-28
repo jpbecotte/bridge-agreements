@@ -20,30 +20,53 @@ Choosing suit:
    a. Opponents sacrifice
    b. According the bidding, ruff is possible
    c. Opponents play at level 5?
-- If your hesitate between many suits, choose the one which has the best possibilities from below
+- If your hesitate between many suits, choose the one which has the best possibilities from the choice of the card.
 
 Choosing the card (when partner is silent):
 
-- Top honnor touching (AK, KQ, QJ, JT, T9); It always promises the card below (unless singleton or doubleton). K & Q denies any card above but J & 10 may have one broken honnor. Thoses sequences are K**J**10x, K**T**9x, Q**109x 
+- Top honnor touching (AK, KQ, QJ, JT, T9); It always promises the card below (unless singleton or doubleton). K & Q denies any card above but J & 10 may have one untouching honnor above. Thoses sequences are K**J**10x, K**T**9x, Q**109x.
 - Singleton (with proper stopper in trump like A or Kx) (is this relevant?)
 - Doubleton (high card)
 - Leading a low card promises an honnor (K, Q, or J)
 - Never lead an unsupported A
 - Never lead under an A
 - Don't lead under a K if you have a better option
-- 
+- When leading a suit that has no honnor, we play MUD. We play the highest middle onle.
+ 
+Choosing the card when it's partner's suit:
 
-Priorities
+- Lead the A if you have it
+- Lead top card from doubleton
+- Lead top of touching honnor
+- With no sequence but with one honnor lead low
+- Otherwise play MUD
 
-1. Top honnor touching (AK, KQ, QJ, JT, T9) [1]
-2. Singleton (with proper stopper in trump like A or Kx)
-3. Doubleton (high card)
-4. Leading trump when conditions are met
-5. Leading a low card [2]
+## NT Contract Leads 
 
-Notes:
-```
-[1] Promises the card below
-[2] Playing a low card doesn't promises an honnor
-[3] Never under lead under A
-```
+- Consider leading partner's suit except if you have a singleton in this suit. 
+- Choose your longuest unbid suit even if you have good cards in a short suit.
+- If partner is marked with strenght, make a passive lead.
+
+If partner is silent:
+
+- Sequences:
+  - A**K**Jx 
+  - A**Q**Jx
+  - A**J**T9
+  - A**T**9x
+  - **K**QJx
+  - K**Q**T9
+  - K**J**T9
+  - K**T**9x
+  - **Q**JTx
+  - Q**T**9x
+  - **J**T9x
+  - **T**9xx
+- Otherwise, 4th best
+
+If you deceide to bid partner's suit :
+
+  - Top card of doubleton
+  - Top touching honnor
+  - With no honnor (A, K, Q), lead the highest
+  - Leading low promises an honnor
