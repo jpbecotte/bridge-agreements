@@ -24,7 +24,7 @@ Choosing suit:
 
 Choosing the card (when partner is silent):
 
-- Top honnor touching (AK, KQ, QJ, JT, T9); It always promises the card below (unless singleton or doubleton). K & Q denies any card above but J & 10 may have one untouching honnor above. Thoses sequences are K**J**10x, K**T**9x, Q**109x.
+- Top honnor touching (AK, KQ, QJ, JT, T9); It always promises the card below (unless singleton or doubleton). K & Q denies any card above but J & 10 may have one untouching honnor above. Thoses sequences are K**J**10x, K**T**9x, Q**10**9x.
 - Singleton (with proper stopper in trump like A or Kx) (is this relevant?)
 - Doubleton (high card)
 - Leading a low card promises an honnor (K, Q, or J)
