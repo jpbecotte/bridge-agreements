@@ -2,12 +2,16 @@
 
 Has opponents reached game? | Is it a NT contract? | Did partner talked? | Ref
 --- | --- | --- | ---
-Yes | Yes | No | TBD
-Yes | No | No | TBD
-No | Yes | No | TBD
-No | No | No | [Trump Partial Leads](#tpl)
+Yes | Yes | No | [NT lead partner silent](#ntpartnersilent)
+Yes | No | No | [Trump Leads partner silent](#tlpartnersilent)
+No | Yes | No | [NT lead partner silent](#ntpartnersilent)
+No | No | No | [Trump Leads partner silent](#tlpartnersilent)
 
-## Trump Partial Leads
+## Trump Contract Leads When Partner Is Silent
+
+
+
+
 
 Priorities
 
@@ -17,6 +21,7 @@ Priorities
 4. Leading trump when conditions are met
    a. Opponents sacrifice
    b. According the bidding, ruff is possible
+   c. Opponents play at level 5?
 5. Leading a low card [2]
 
 Notes:
