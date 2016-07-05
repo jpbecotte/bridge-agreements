@@ -25,13 +25,13 @@ Choosing suit:
 Choosing the card (when partner is silent):
 
 - Top honnor touching (AK, KQ, QJ, JT, T9); It always promises the card below (unless singleton or doubleton). K & Q denies any card above but J & 10 may have one untouching honnor above. Thoses sequences are K**J**10x, K**T**9x, Q**10**9x.
-- Singleton (with proper stopper in trump like A or Kx) (is this relevant?)
-- Doubleton (high card)
+- Singleton (with proper stopper in trump like A or Kx) (is this relevant?) yes, u r right, stopper in trump is necessary
+- Doubleton (high card), 
 - Leading a low card promises an honnor (K, Q, or J)
 - Never lead an unsupported A
 - Never lead under an A
 - Don't lead under a K if you have a better option
-- When leading a suit that has no honnor, we play MUD. We play the highest middle onle.
+- When leading a suit that has no honnor, we play MUD. We play the highest middle onle. Do you mean we play the highest on the second card?
  
 Choosing the card when it's partner's suit:
 
@@ -43,14 +43,14 @@ Choosing the card when it's partner's suit:
 
 ## NT Contract Leads 
 
-- Consider leading partner's suit except if you have a singleton in this suit. 
+- Consider leading partner's suit except if you have a singleton in this suit.  Do you know why the singleton is exception?
 - Choose your longuest unbid suit even if you have good cards in a short suit.
-- If partner is marked with strenght, make a passive lead.
+- If partner is marked with strength, make a passive lead.
 
 If partner is silent:
 
 - Sequences:
-  - A**K**Jx 
+  - A**K**Jx   why lead k instead of A?
   - A**Q**Jx
   - A**J**T9
   - A**T**9x
@@ -62,11 +62,11 @@ If partner is silent:
   - Q**T**9x
   - **J**T9x
   - **T**9xx
-- Otherwise, 4th best
+- Otherwise, 4th best or mud
 
-If you deceide to bid partner's suit :
+If you deceide to lead partner's suit :
 
   - Top card of doubleton
   - Top touching honnor
-  - With no honnor (A, K, Q), lead the highest
+  - With no honnor (A, K, Q), lead the highest. Do we play MUD here?
   - Leading low promises an honnor
