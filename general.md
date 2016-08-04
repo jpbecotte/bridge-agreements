@@ -2,7 +2,7 @@
 1. Total points calculation:
   * support points (sp): void 4, singleton 3, doubleton 1. Calculable only when fit is established.
   * length points (lp) : 1 point for each extra card from the 5th card. 
-  * tpts is max(has_fit?(hcp + sp, 0), hcp + lp).
+  * tpts is max(has_fit?(hcp + sp, hcp), hcp + lp).
 2. Points range(total points):
   * opening:
   	* 13-15 (including good 10,11,12 if the rule of 22 applies)
@@ -30,10 +30,10 @@
    Opponent opens 1c, Pass, 1S, 2H = 13-16 pts 
 10. 1NT balancing promises 12-15 tpts.
 11. After take out double at level 1, 
-   if opponent passes, raise = 0-8 pts; jump = 9+ pts -- is it tpts?
-   if opponent talks, pass = 0-4 pts; raise = 5-8 pts; jump = 9+ pts -- is it tpts ?
+   if opponent passes, raise = 0-8 pts; jump = 9+ pts. This is total points, counting the shortage of opponent's suit. 
+   if opponent talks, pass = 0-4 pts; raise = 5-8 pts; jump = 9+ pts 
 12. Never lead under A against trump contract. 
     Lead under A against no trump contract is allowed.
 13. NEVER overcall with 4 cards
-14. After Gerber or 1430, responder is the captain. You must have a very good reason to overcall the captain's decision.
-15. reverse is on when opponent interferes
+14. The person who starts Gerber or 1430 is the captain. You must have a very good reason to overcall the captain's decision.
+15. Reverse is on when opponent interferes
