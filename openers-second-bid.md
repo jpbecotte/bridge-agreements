@@ -14,7 +14,7 @@
 
 - A reverse happens when second bid is cheaper than first bid. It shows 17+tpts.
 
-- A non-reverse bid promises 13-17tpts. 
+- A non-reverse bid promises 13-16tpts. 
 
 - A single jump in a new color from opener shows 18-19 tpts and is game forcing.
 
